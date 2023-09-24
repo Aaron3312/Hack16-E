@@ -1,5 +1,8 @@
 # Hack16-E
 # HermesAI
+Como usarlo?
+Para abrir el codigo de del programa tienes que abrir la carpeta de SofttekLLMSDK-main\, luego seguir a la carpeta 
+SofttekLLMSDK-main y el archivo que sera de correr el programa sera el de "HermesAI.ipynb
 ## Participantes
 
 Agradecemos a los siguientes participantes por su contribución a HermesAI:
