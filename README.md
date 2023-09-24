@@ -13,7 +13,7 @@ Agradecemos a los siguientes participantes por su contribución a HermesAI:
 2. [Aaron Hernandez Jimenez](@Aaron3312)
 
 
-3. [Nombre del Participante 3](@moisescortes)
+3. [Moises Adrian Cortes Ramos](@moisescortes)
 
 4. [Antonino Sandoval](@AntoninoSandvl)
 
