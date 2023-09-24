@@ -10,14 +10,12 @@ Agradecemos a los siguientes participantes por su contribución a HermesAI:
 1. [Gabriel Alvarez Arzate](@Gabo8912)
    - Contacto: [gavo00321@gmail.com]
 
-2. [Nombre del Participante 2](@Aaron3312)
-   - Contacto: [Correo electrónico o enlace a perfil de LinkedIn]
+2. [Aaron Hernandez Jimenez](@Aaron3312)
+
 
 3. [Nombre del Participante 3](@moisescortes)
-   - Contacto: [Correo electrónico o enlace a perfil de LinkedIn]
 
-4. [Nombre del Participante 4](@)
-   - Contacto: [Correo electrónico o enlace a perfil de LinkedIn]
+4. [Antonino Sandoval](@AntoninoSandvl)
 
 ## Descripción del Proyecto
 
